@@ -6,7 +6,7 @@ Welcome to my Data Visualization Portfolio! This repository serves as a showcase
 
 ### NBA Divisional Matchups
 
-The first project in this repository visualizes the NBA regular season matchups, focusing on games played between teams across different divisions. This visualization was created as part of a problem set for a course on Multivariate Statistics. It highlights the structure of the NBA's divisions and conferences, emphasizing the frequency of intra- and inter-division games.
+The project visualizes the NBA regular season matchups, focusing on games played between teams across different divisions. It highlights the structure of the NBA's divisions and conferences, emphasizing the frequency of intra- and inter-division games.
 
 #### Visualization Description
 
